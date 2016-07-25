@@ -1,0 +1,15 @@
+$icon-font-path: '../fonts/';
+// bower: scss
+@import "bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
+
+// endbower
+
+body {
+  font-family: monospace;
+  font-size: 14px;
+  color: white;
+  background: black;
+}
+.underline:after {
+  content: "_";
+}
