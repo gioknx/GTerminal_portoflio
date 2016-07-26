@@ -1,0 +1,1 @@
+[[app/images/preview.png|alt=octocat]]
