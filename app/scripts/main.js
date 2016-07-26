@@ -21,6 +21,10 @@ Ruby on Rails (<span class='heart'>❤</span>), C#, PHP, Python, C, C++, Java, N
 {input: "tail ./skills/web/frontend", output: "<div class='skills outputText'>\
 AngularJS (<span class='heart'>❤</span>), Ionic, Javascript, JQuery, Bootstrap, CSS 3, HTML 5, Wordpress </div>",
 },
+{input: "service giovani status", output: "<div class='serviceStatus outputText'>\
+The man is the proud CEO and Founder of GD Web, a small company that helps those who want to turn their dreams and ideas into real web-ish stuff<br>\
+You may also find him available for freelancing! Contact him in any social network</div>",
+},
 
 
 
